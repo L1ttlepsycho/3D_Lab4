@@ -379,4 +379,4 @@ public class CreatureBehavior : MonoBehaviour
 }
 ```
 ## 效果展示
-
+https://github.com/L1ttlepsycho/3D_Lab4/blob/master/Priest%20and%20Devil%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202021.3.8f1c1%20Personal%20_DX11_%202022-11-06%2023-23-32_Trim.mp4
